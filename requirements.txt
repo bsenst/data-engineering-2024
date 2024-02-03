@@ -1,0 +1,6 @@
+terraform-local
+mage-ai[all]
+mage
+sshtunnel
+psycopg2
+minio
